@@ -1,4 +1,4 @@
-#Techsaksham Training
+#Techsaksham Training#
 ###Python, MySQL, and Data Analytics Training Program
 This repository documents the journey and learning experiences gained through the Techsaksham Training Program, organized by Edunet Foundation. The training was conducted at Walchand Institute of Technology, Solapur, and focused on equipping participants with fundamental and advanced skills in Python programming, MySQL database management, and Data Analytics.
 
